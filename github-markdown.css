@@ -1,4 +1,7 @@
 /*light*/
+code {
+  white-space : pre-wrap !important;
+}
 
 body {
   -ms-text-size-adjust: 100%;
